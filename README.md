@@ -11,3 +11,6 @@ See food-not-food live here or [click here to view it on HuggingFace spaces.](ht
 
 https://github.com/user-attachments/assets/a508e887-41f1-4eb2-b1ae-edd6185283ba
 
+### License
+
+food-not-food have MIT license. Click [here](https://github.com/sreedeepEK/food-not-food/blob/main/LICENSE) to know more. 
